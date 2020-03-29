@@ -90,3 +90,8 @@
         background-image: linear-gradient(#ff9800,#a46406);
     }
 }
+
+body
+{
+    margin:0px;
+}
